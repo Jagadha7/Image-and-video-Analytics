@@ -1,1 +1,0 @@
-# Quad tree representation
